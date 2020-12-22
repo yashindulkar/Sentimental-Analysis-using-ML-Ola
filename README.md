@@ -16,7 +16,7 @@
 
 6️⃣ Google Word2Vec is also used to create a vocabulary for the words 
 
-### ⚫️ Visual representation 
+### ⚫️ 
 
 ❗️  Packages
 
